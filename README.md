@@ -1,2 +1,2 @@
 # tec-KB
-TEC-1 keyboard expansions
+TEC-1 keyboard explained and its expansions
