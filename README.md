@@ -4,5 +4,4 @@ https://github.com/SteveJustin1963/tec-KB/wiki
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png)
 
-* touch and slide
-https://easyeda.com/editor#id=f7c6e0caf9ca4567a0e26ea7a1748cf3
+
