@@ -7,3 +7,4 @@ https://github.com/SteveJustin1963/tec-KB/wiki
 https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
 
 
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
