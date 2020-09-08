@@ -11,5 +11,6 @@ https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0
 
 
 try
+https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
 https://github.com/arturo182/BBQ10KBD
 
