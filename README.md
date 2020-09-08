@@ -1,6 +1,6 @@
 # tec-KB
 TEC-1 keyboard, exploring its design, possible expansions and alternatives
-https://github.com/SteveJustin1963/tec-KB/wiki
+ 
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png)
 
@@ -8,3 +8,8 @@ https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0
 
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
+
+
+try
+https://github.com/arturo182/BBQ10KBD
+
