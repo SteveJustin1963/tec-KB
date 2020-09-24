@@ -10,7 +10,9 @@ https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
 
 
-try
+will try
+
 https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
+
 https://github.com/arturo182/BBQ10KBD
 
