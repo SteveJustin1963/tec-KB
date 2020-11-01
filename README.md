@@ -1,16 +1,16 @@
 # tec-KB
-Welcome to the tec-KB wiki!
+Experimenting with keyboards on the TEC-1
 
 ## Abstract
-The TEC1 has enjoyed many keytops such as
+The TEC-1 has enjoyed many keytops such as
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) 
 
 now to try 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
 
 ## Introduction 
-The tec-1 enjoys a proud frugal kb that achieves a lot with so little. The fact that its home hacked and often falling apart with its dirty key tops adds to its retro patina appeal. Any use of weird key switches and cheap plastic shapes all the better. Now to explore and explore and expand this design/ 
- 
+The TEC-1 enjoys a proud frugal integrated hex kb that achieves a lot with so little. Most have fallen to the ravages of time with cracked, faded, falling dirty key tops just adds to its nice retro patina appeal. New keys and tops have come for a face lift, even Klingon has been tried albeit useless. including weird key switches and cheap plastic shapes all the better. Now to explore and explore and expand this design
+
 ## Literature Review
 https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
 https://blog.tindie.com/2018/08/blackberry-q10-kb-prototyping-breadboard/
