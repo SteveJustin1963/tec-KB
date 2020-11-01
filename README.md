@@ -1,10 +1,9 @@
 # tec-KB
-TEC-1 keyboard, exploring its design, possible expansions and alternatives
+
  
 
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png)
 
-https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
+
 
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
@@ -23,11 +22,14 @@ https://github.com/arturo182/BBQ10KBD
 Welcome to the tec-KB wiki!
 
 ## Abstract
+the TEC1 has enjoyed many keytops such as
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png)
 
 ## Introduction 
-the tec-1 enjoys a proud frugal kb that achieves a lot with so little. The fact that its home hacked and often falling apart with its dirty key tops adds to its retro patina appeal. any use of weird key switches and cheap plastic shapes all the better. 
+The tec-1 enjoys a proud frugal kb that achieves a lot with so little. The fact that its home hacked and often falling apart with its dirty key tops adds to its retro patina appeal. Any use of weird key switches and cheap plastic shapes all the better. Now to explore and explore and expand this design/ 
  
 ## Literature Review
+https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
 
 ## Observe and Question 
 * review current tec-1 kb design and its code in various roms
