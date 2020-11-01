@@ -2,7 +2,8 @@
 Experimenting with keyboards on the TEC-1
 
 ## Abstract
-The TEC-1 has enjoyed many keytops such as
+The many keys of the TEC-1
+
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) 
  
 ## Introduction 
