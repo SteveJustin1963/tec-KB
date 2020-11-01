@@ -1,21 +1,11 @@
 # tec-KB
-
-
-will try
-
-
-
-
-
-
-====
-
 Welcome to the tec-KB wiki!
 
 ## Abstract
-the TEC1 has enjoyed many keytops such as
+The TEC1 has enjoyed many keytops such as
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png)
-
+now to try 
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
 ## Introduction 
 The tec-1 enjoys a proud frugal kb that achieves a lot with so little. The fact that its home hacked and often falling apart with its dirty key tops adds to its retro patina appeal. Any use of weird key switches and cheap plastic shapes all the better. Now to explore and explore and expand this design/ 
  
@@ -41,7 +31,7 @@ https://github.com/arturo182/BBQ10KBD
 ## Theory - Testable
 Try the Blackberry KB
 
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
+
 
 
 
