@@ -3,7 +3,7 @@ Welcome to the tec-KB wiki!
 
 ## Abstract
 The TEC1 has enjoyed many keytops such as
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png)
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) size 70%
 now to try 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
 ## Introduction 
