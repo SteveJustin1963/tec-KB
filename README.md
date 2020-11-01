@@ -8,7 +8,7 @@ The many keys of the TEC-1 integrated hex pad.
  
 ## Introduction 
 The first TEC-1's now have dirty, cracked and faded patina apeal that used the SPST Momentary PCB Mount Tactile Switch, new ones can be had from Altronics. 
-New TEC-1's have either the original or square keys with clear plastic covers. Now exploring new designs; the magazine issue 15 said; "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". Asking Colin Mitchell (2019); "I can't remember what they were going to use, 15 years ago. You can [now] buy a keyboard for $12.00". He is right, trying a modern KB with various interfaces ps/2, usb, bluetooth is cheaper DIY.
+New TEC-1's have either the original or square keys with clear plastic covers. Now exploring new designs; the magazine issue 15 said; "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". Asking Colin Mitchell (2019); "I can't remember what they were going to use, 15 years ago. You can [now] buy a keyboard for $12.00". He is right, trying a modern KB with various interfaces is cheaper than DIY, but not necessarily easier.
 
 ## Literature Review
 https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
@@ -17,23 +17,21 @@ https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
 https://github.com/arturo182/BBQ10KBD
 
 ## Observe and Question 
-* review current tec-1 kb design and its code in various roms
+* review current tec-1 kb design, code and operation
 * review FB group chats, eg changed code reflect new key positions, eg BG
-* rearrange and or expand the current kb with little additional parts
 * http://www.keyboard-layout-editor.com/
-* can a mini qwerty layout be used?
+* rearrange and or expand the current kb with a few additional parts
 * can another kb project be ported to the tec-1?
+* can the mini qwerty layout be used such as the Blackberry Q10 ?
+
 
 ## Theory - Testable
-Try the Blackberry KB
-
-
-
-
+Try the Q10
 
 ## Prediction
 
 ## Method 
+design additonal circuit, build a mini interface for the Q10, hack some new code
 
 ## Test Journal
 https://github.com/SteveJustin1963/tec-KB/wiki
