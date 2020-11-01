@@ -2,12 +2,13 @@
 Experimenting with keyboards on the TEC-1
 
 ## Abstract
-The many keys of the TEC-1
+The many keys of the TEC-1 integrated hex pad. 
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) 
  
 ## Introduction 
-The TEC-1 enjoys a frugal integrated hex pad that achieves a lot with so little. The first TEC-1's now have retro patina apeal. with dirty cracked, faded, and falling apart plastic tops. New TEC-1's have either the new original xx or now square keys with clear plastic covers. Eitherway, its worth exploring new designs.
+The first TEC-1's now have dirty, cracked and faded patina apeal that used the SPST Momentary PCB Mount Tactile Switch, new ones can be had from Altronics. 
+New TEC-1's have either the original or square keys with clear plastic covers. Now exploring new designs; the magazine issue 15 said; "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". Asking Colin Mitchell (2019); "I can't remember what they were going to use, 15 years ago. You can [now] buy a keyboard for $12.00". He is right, trying a modern KB with various interfaces ps/2, usb, bluetooth is cheaper DIY.
 
 ## Literature Review
 https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
@@ -19,12 +20,9 @@ https://github.com/arturo182/BBQ10KBD
 * review current tec-1 kb design and its code in various roms
 * review FB group chats, eg changed code reflect new key positions, eg BG
 * rearrange and or expand the current kb with little additional parts
+* http://www.keyboard-layout-editor.com/
 * can a mini qwerty layout be used?
 * can another kb project be ported to the tec-1?
-* in issue 15, "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". 
-* "I can't remember what they were going to use, 15 years ago. You can [now] buy a keyboard for $12.00" (Colin Mitchell 2019)
-* look at a ps/2, usb, bluetooth  kb, it's cheaper to buy kb than make one.
-* http://www.keyboard-layout-editor.com/
 
 ## Theory - Testable
 Try the Blackberry KB
