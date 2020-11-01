@@ -1,19 +1,10 @@
 # tec-KB
 
- 
-
-
-
-
-
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
-
 
 will try
 
-https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
 
-https://github.com/arturo182/BBQ10KBD
+
 
 
 
@@ -31,6 +22,11 @@ The tec-1 enjoys a proud frugal kb that achieves a lot with so little. The fact 
 ## Literature Review
 https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
 
+https://blog.tindie.com/2018/08/blackberry-q10-kb-prototyping-breadboard/
+https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
+
+https://github.com/arturo182/BBQ10KBD
+
 ## Observe and Question 
 * review current tec-1 kb design and its code in various roms
 * review FB group chats, eg changed code reflect new key positions, eg BG
@@ -43,6 +39,11 @@ https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0
 * http://www.keyboard-layout-editor.com/
 
 ## Theory - Testable
+Try the Blackberry KB
+
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
+
+
 
 ## Prediction
 
