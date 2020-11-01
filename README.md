@@ -4,10 +4,7 @@ Experimenting with keyboards on the TEC-1
 ## Abstract
 The TEC-1 has enjoyed many keytops such as
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) 
-
-now to try 
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
-
+ 
 ## Introduction 
 The TEC-1 enjoys a proud frugal integrated hex kb that achieves a lot with so little. Most have fallen to the ravages of time with cracked, faded, falling dirty key tops just adds to its nice retro patina appeal. New keys and tops have come for a face lift, even Klingon has been tried albeit useless. including weird key switches and cheap plastic shapes all the better. Now to explore and explore and expand this design
 
