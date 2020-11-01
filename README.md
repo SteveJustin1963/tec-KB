@@ -18,7 +18,7 @@ https://github.com/arturo182/BBQ10KBD
 
 ## Observe and Question 
 * review current tec-1 kb design, code and operation
-* review FB group chats, eg changed code reflect new key positions, eg BG
+* review FB group chats, eg changed code reflect new key positions 
 * http://www.keyboard-layout-editor.com/
 * rearrange and or expand the current kb with a few additional parts
 * can another kb project be ported to the tec-1?
