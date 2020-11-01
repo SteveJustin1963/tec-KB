@@ -71,8 +71,7 @@ https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
 ## Iterate, new hypotheses or predictions
 https://github.com/SteveJustin1963/tec-TOUCH
 
-74C923 alternatives 
-"Ken Stone; Just scan them with an 8 bit input and 8 bit output latch. You are already scanning the 7seg display. there is the output scan already done for you. You will notice there is a header at the bottom of the 1E labeled Scan 7-0. That is there for this exact reason."
+74C923 alternatives, "Just scan them with an 8 bit input and 8 bit output latch. You are already scanning the 7seg display. there is the output scan already done for you. You will notice there is a header at the bottom of the 1E labeled Scan 7-0. That is there for this exact reason." (Ken Stone 2019)
 
 
  
