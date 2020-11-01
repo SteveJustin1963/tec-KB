@@ -3,25 +3,25 @@ Welcome to the tec-KB wiki!
 
 ## Abstract
 The TEC1 has enjoyed many keytops such as
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) size 70%
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) 
+
 now to try 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/tec-1%20kb.png)
+
 ## Introduction 
 The tec-1 enjoys a proud frugal kb that achieves a lot with so little. The fact that its home hacked and often falling apart with its dirty key tops adds to its retro patina appeal. Any use of weird key switches and cheap plastic shapes all the better. Now to explore and explore and expand this design/ 
  
 ## Literature Review
 https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
-
 https://blog.tindie.com/2018/08/blackberry-q10-kb-prototyping-breadboard/
 https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
-
 https://github.com/arturo182/BBQ10KBD
 
 ## Observe and Question 
 * review current tec-1 kb design and its code in various roms
 * review FB group chats, eg changed code reflect new key positions, eg BG
-* rearrange and or expand the current kb with little additional parts ?
-* can a mini qwerty layout be achieved
+* rearrange and or expand the current kb with little additional parts
+* can a mini qwerty layout be used?
 * can another kb project be ported to the tec-1?
 * in issue 15, "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". 
 * "I can't remember what they were going to use, 15 years ago. You can [now] buy a keyboard for $12.00" (Colin Mitchell 2019)
