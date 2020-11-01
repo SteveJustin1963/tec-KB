@@ -7,7 +7,7 @@ The many keys of the TEC-1
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) 
  
 ## Introduction 
-The TEC-1 enjoys a frugal integrated hex pad that achieves a lot with so little. Some have fallen to the ravages of time with cracked, faded, falling apart dirty key tops, but this just adds to its retro patina appeal. New keys and tops have come along since 1983, even useless Klingon. Now to explore and explore and expand this design
+The TEC-1 enjoys a frugal integrated hex pad that achieves a lot with so little. The first TEC-1's now have retro patina apeal. with dirty cracked, faded, and falling apart plastic tops. New TEC-1's have either the new original xx or now square keys with clear plastic covers. Eitherway, its worth exploring new designs.
 
 ## Literature Review
 https://www.tindie.com/products/arturo182/bb-q10-keyboard-pmod/?fbclid=IwAR1t-W0DrUagAI4YKQwu2w6RRxsA_6cYkzKNg-HH21vqRzOpqBbhDFmOmjw
@@ -38,7 +38,7 @@ Try the Blackberry KB
 ## Method 
 
 ## Test Journal
-see wiki
+https://github.com/SteveJustin1963/tec-KB/wiki
 
 
 ## Report, figures, tables
