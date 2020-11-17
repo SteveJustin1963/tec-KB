@@ -66,6 +66,8 @@ https://hackaday.com/2018/03/08/regrowing-a-blackberry-from-the-keyboard-out/
 
 https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
 
+http://www.zx81keyboardadventure.com/2019/05/zx-key-external-keyboard-for-zx81s-and.html?fbclid=IwAR2rAczJfns30fEFsxtXb796U0RyCowCzWCHT9iPAPgo3lfXKYyy38EsmuM
+
 
 
 ## Iterate, new hypotheses or predictions
