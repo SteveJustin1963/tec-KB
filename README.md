@@ -1,4 +1,4 @@
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun.png) 
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun2.png) 
 
 Well we have many key types on the TEC-1s integrated hex pad. The first TEC-1's now have dirty, cracked and faded patina apeal that used the SPST Momentary PCB Mount Tactile Switch, new ones can be had from Altronics. Newer TEC-1's have either the original or square keys with clear plastic covers. 
 
