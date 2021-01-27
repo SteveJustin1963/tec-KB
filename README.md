@@ -12,7 +12,7 @@ New TEC-1's have either the original or square keys with clear plastic covers. N
 
 ## Q10 Blackberry kb
 
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/120093001_2804585019774865_2639766788032736065_n.jpg)
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/120093001_2804585019774865_2639766788032736065_n2.jpg)
 
 
 ## bbq10kbd_breakout pcb
