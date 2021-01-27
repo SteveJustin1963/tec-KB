@@ -17,4 +17,4 @@ New TEC-1's have either the original or square keys with clear plastic covers. N
 
 ## bbq10kbd_breakout pcb
 
-![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/9_11_29a.png)
+![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/9_11_29a2.png)
