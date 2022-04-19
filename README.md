@@ -17,17 +17,25 @@ In issue 15; "The LCD will be supported further in issue 16 and if all goes well
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/9_11_29a2.png)
 
-### My project 2 - old Ascii parallel port keyboard
+### My project 2
+- expand current kb system with a few additional parts on the 74c928 
+- https://easyeda.com/editor#id=f7c6e0caf9ca4567a0e26ea7a1748cf3
+
+### My project 3
+
+- https://github.com/SteveJustin1963/tec-TOUCH
+
+
+### My project 4 
+- old Ascii parallel port keyboard
 - 
 
-### My project 3 - ps2 kb with asci decoder
+### My project 5 
+- ps2 kb with asci decoder
 - 
 
 
 ### Iterate
-- https://github.com/SteveJustin1963/tec-TOUCH
-- expand current kb system with a few additional parts on the 74c928 
-- https://easyeda.com/editor#id=f7c6e0caf9ca4567a0e26ea7a1748cf3
 - can another kb project be ported to the tec-1? eg RS2014 
 - can the mini qwerty layout be used such as the Blackberry Q10 ?
 - what if no more 74c923 chips? 74C923 alternatives ? 
