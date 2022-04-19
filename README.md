@@ -16,7 +16,7 @@ Following the smarty comments re the Blackberry Q10, lets try it out. getting th
 ### Iterate
 - ascii kb
 - ps2
-- 
+- https://forum.digikey.com/t/ps-2-keyboard-to-ascii-converter-vhdl/12616
 
 ### Ref
 - 
