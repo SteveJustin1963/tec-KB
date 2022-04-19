@@ -1,6 +1,6 @@
 ## Welcom to the TEC-1's keypad family
 
-The appealing patina of dirt, fading and cracking, now with Kleong. 
+The appealing patina of dirt, fading and cracking, now in Kleong. 
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun2.png) 
 
