@@ -14,9 +14,16 @@
 
 
 ### Iterate
+- review current tec-1 kb design, code and operation
+- review FB group chats, eg changed code reflect new key positions 
+- rearrange and or expand the current kb with a few additional parts
+- can another kb project be ported to the tec-1?
+- can the mini qwerty layout be used such as the Blackberry Q10 ?
+- what if no more 74c923 chips?
 - parallel ascii kb
 - ps2 kb with asci decoder
 - https://forum.digikey.com/t/ps-2-keyboard-to-ascii-converter-vhdl/12616
 
 ### Ref
+- http://www.keyboard-layout-editor.com/
 - 
