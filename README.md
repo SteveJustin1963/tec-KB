@@ -8,10 +8,7 @@ The first gen's used the SPST momentary PCB Mounted tactile switch; a small circ
 
 In issue 15; "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". Sadley this didnt eventuate. Following this up with Colin Mitchell (2019) he said, "I can't remember what they were going to use, 15 years ago. You can buy a keyboard for $12.00". He is right, using a modern KB is cheaper than a DIY one, but not as fun! I dont like using usb on the tec1, and ps2 type kb is better but still needs decoding.  
 
-### Review
-- review current tec-1 kb design, code and operation
-- review FB group chats, eg changed code reflect new key positions 
-
+ 
 
 ### My project 1 - Blackberry Q10 keyboard 
 - get a bbq10kbd_breakout pcb
@@ -40,7 +37,9 @@ In issue 15; "The LCD will be supported further in issue 16 and if all goes well
 - measure and graph a force-map for different key types and comment on its tactile feel
 - 74C923 as a serial port https://github.com/SteveJustin1963/tec-BIT-BANG
 - Craig Hearts "74c923 based on a Leostick". https://github.com/tec1group/Arduino74c923
- 
+- review current tec-1 kb design, code and operation
+- review FB group chats, eg changed code reflect new key positions 
+
 
 
 ### Ref
