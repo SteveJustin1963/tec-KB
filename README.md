@@ -1,8 +1,11 @@
+## Welcom to the TEC-1's keypd family
+
+The appealing patina of dirt, fading and cracking! Now with Kleong ! 
+
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun2.png) 
 
-- The first generation TEC-1's by now have an apealing dirty, faded and cracked patina on the SPST Momentary PCB Mount Tactile Switchs
-- 40 years later new ones can still be had from Altronics. 
-- New TEC-1's ar sporting coloured square key tops with clear plastic covers. 
+- The first gen's used the SPST momentary PCB Mounted tactile switch; a small circular dome of coloured plastic, with that vintage wobbly click clack feel. Like nail polish we hand labeled and varnish the tops. 40 year on, new ones can still be had from Altronics.  
+- Like a new set of mags now we have coloured square key tops with clear plastic covers. 
 - Issue 15 said; "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". Follwing this up with Colin Mitchell (2019) albiet very late he said, "I can't remember what they were going to use, 15 years ago. You can buy a keyboard for $12.00". He is right, uing a modern KB is cheaper than a DIY one, but not as fun! I dont like using usb on the tec1, and ps2 type kb is better but still needs decoding.  
 
 
