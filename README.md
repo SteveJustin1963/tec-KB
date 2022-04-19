@@ -1,4 +1,4 @@
-## Welcom to the TEC-1's keypd family
+## Welcom to the TEC-1's keypad family
 
 The appealing patina of dirt, fading and cracking! Now with Kleong ! 
 
