@@ -11,3 +11,12 @@ Following the smarty comments re the Blackberry Q10, lets try it out. getting th
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/120093001_2804585019774865_2639766788032736065_n2.jpg)
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/9_11_29a2.png)
+
+
+### Iterate
+- ascii kb
+- ps2
+- 
+
+### Ref
+- 
