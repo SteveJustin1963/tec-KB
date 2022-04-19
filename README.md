@@ -4,22 +4,28 @@ The appealing patina of dirt, fading and cracking, now in Kleong.
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/kb-fun2.png) 
 
-The first gen's used the SPST momentary PCB Mounted tactile switch; a small circular dome of coloured plastic, with that vintage wobbly click clack feel. Labels were hand drawn with black markers then nail varnished to seal it on. Now 40 year on, new keys can still be had from Altronics. Or like a new set of mags we now have coloured square keys with clear plastic covers. 
+The first gen's used the SPST momentary PCB Mounted tactile switch; a small circular dome of coloured plastic, with that vintage wobbly click clack feel. Labels were hand drawn with black markers or Dymo printed then nail varnished to seal it on. Now 40 year on, new keys can still be had from Altronics, or like a new set of mags we now have coloured square keys with clear plastic covers. There are still many other possibilities. 
 
-In issue 15; "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". Follwing this up with Colin Mitchell (2019) he said, "I can't remember what they were going to use, 15 years ago. You can buy a keyboard for $12.00". He is right, using a modern KB is cheaper than a DIY one, but not as fun! I dont like using usb on the tec1, and ps2 type kb is better but still needs decoding.  
+In issue 15; "The LCD will be supported further in issue 16 and if all goes well, we will have a cheap, full alpha-numeric keyboard with supporting software". Sadley this didnt eventuate. Following this up with Colin Mitchell (2019) he said, "I can't remember what they were going to use, 15 years ago. You can buy a keyboard for $12.00". He is right, using a modern KB is cheaper than a DIY one, but not as fun! I dont like using usb on the tec1, and ps2 type kb is better but still needs decoding.  
 
-### How about a small Blackberry Q10 keyboard 
+### Review
+- review current tec-1 kb design, code and operation
+- review FB group chats, eg changed code reflect new key positions 
+
+
+### My project 1 - Blackberry Q10 keyboard 
 - get a bbq10kbd_breakout pcb
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/120093001_2804585019774865_2639766788032736065_n2.jpg)
 
 ![](https://github.com/SteveJustin1963/tec-KB/blob/master/pics/9_11_29a2.png)
 
+### My project 2 - old Ascii parallel port keyboard
+- 
 
+### My project 3 - ps2 kb with asci decoder
+- 
 
-### Review
-- review current tec-1 kb design, code and operation
-- review FB group chats, eg changed code reflect new key positions 
 
 ### Iterate
 - https://github.com/SteveJustin1963/tec-TOUCH
@@ -30,19 +36,11 @@ In issue 15; "The LCD will be supported further in issue 16 and if all goes well
 - what if no more 74c923 chips? 74C923 alternatives ? 
   - scan io port across xy, "Just scan them with an 8 bit input and 8 bit output latch. You are already scanning the 7seg display. there is the output scan already done for you. You will notice there is a header at the bottom of the 1E labeled Scan 7-0. That is there for this exact reason." (Ken Stone 2019)
   - Soutern Cross KB system
-
-- parallel ascii kb
-- ps2 kb with asci decoder
 - usb kb port
 - measure and graph a force-map for different key types and comment on its tactile feel
 - 74C923 as a serial port https://github.com/SteveJustin1963/tec-BIT-BANG
 - Craig Hearts "74c923 based on a Leostick". https://github.com/tec1group/Arduino74c923
  
-
-
-
-
-
 
 
 ### Ref
