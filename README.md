@@ -65,6 +65,7 @@ In issue 15; "The LCD will be supported further in issue 16 and if all goes well
 - https://kitspace.org/boards/github.com/arturo182/bbq10kbd_breakout/
 - http://www.zx81keyboardadventure.com/2019/05/zx-key-external-keyboard-for-zx81s-and.html?fbclid=IwAR2rAczJfns30fEFsxtXb796U0RyCowCzWCHT9iPAPgo3lfXKYyy38EsmuM
 - https://core-electronics.com.au/e1115-ps-2-keyboard-to-ttl-serial-converter.html
+- https://www.applefritter.com/content/ascii-keyboard-tester
 - 
 
 
